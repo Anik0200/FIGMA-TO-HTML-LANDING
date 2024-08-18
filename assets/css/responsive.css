@@ -1,0 +1,174 @@
+@media (min-width: 320px) and (max-width: 576px) {
+
+    .titile h2 {
+        font-size: 35px;
+        margin-bottom: 80px;
+    }
+
+    /* <!-- ---------- Start Navigation Bar ---------- --> */
+    .navbar .logo img {
+        width: 150px;
+    }
+
+    .navbar .navBtn {
+        display: none;
+    }
+
+    .navbar .navList {
+        margin-top: 15px !important;
+        gap: 5px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    /* <!-- ---------- End Navigation Bar ---------- --> */
+
+    /* <!-- ---------- Start Banner ---------- --> */
+    .banner {
+        padding: 50px 0 50px 0;
+        background-color: #F5FCFF;
+    }
+
+    .banner .text_area h2 {
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 110%;
+        margin: 30px 0 20px;
+    }
+
+    .banner .text_area h2 span {
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 100%;
+    }
+
+    .banner .text_area p {
+        line-height: 110%;
+    }
+
+    .banner .text_area a {
+        font-size: 18px;
+        line-height: 110%;
+        margin-top: 15px;
+        margin-bottom: 80px;
+        padding: 12px 15px;
+    }
+
+    /* <!-- ---------- End Banner ---------- --> */
+
+
+    /* <!-- ---------- Start Porfolio ---------- --> */
+
+    .portfolio {
+        padding: 40px 0 40px 0;
+    }
+
+    .portfolio .card {
+        margin-bottom: 20px;
+    }
+
+    .portfolio .card .cardTitle {
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .portfolio .card .cardText {
+        font-size: 14px;
+        line-height: 130%;
+    }
+
+    /* <!-- ---------- End Porfolio ---------- --> */
+
+
+    /* <!-- ---------- Start Projects ---------- --> */
+    .Project {
+        padding-bottom: 40px;
+    }
+
+    .Project .card {
+        margin-bottom: 20px;
+    }
+
+    .Project .card .cardTitle {
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .Project .card .cardText {
+        font-size: 14px;
+        line-height: 130%;
+    }
+
+    /* <!-- ---------- Start Projects ---------- --> */
+
+
+    /* <!-- ---------- Start Contact ---------- --> */
+    .contact {
+        padding-bottom: 40px;
+    }
+
+    .contact .text h3 {
+        margin-bottom: 8px;
+    }
+
+    .contact .text h2 {
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+
+    .contact .text p {
+        margin-bottom: 40px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-group label {
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+
+    .form-group input {
+        height: 40px !important;
+    }
+
+    .form-group select {
+        height: 40px !important;
+    }
+
+    .form-group textarea {
+        height: 150px !important;
+    }
+
+    /* <!-- ---------- End Contact ---------- --> */
+
+    /* <!-- ---------- Start Footer ---------- --> */
+    footer .main {
+        display: inline-block !important;
+    }
+
+    footer .text {
+        margin-bottom: 40px;
+        font-size: 18px;
+        line-height: 0;
+    }
+
+    footer ul {
+        gap: 5px;
+        display: inline-block !important;
+        padding-left: 0px !important;
+    }
+
+    footer ul li {
+        font-size: 18px;
+        line-height: 0;
+        margin-bottom: 30px;
+    }
+
+    /* <!-- ---------- End Footer ---------- --> */
+}
