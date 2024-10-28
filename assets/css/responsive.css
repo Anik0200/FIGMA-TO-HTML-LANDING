@@ -25,6 +25,16 @@
   /* <!-- ---------- End Navigation Bar ---------- --> */
 
   /* <!-- ---------- Start Banner ---------- --> */
+
+  .navbar .navbar-expand-lg {
+    padding: 0;
+  }
+
+  .banner .text_area h2 span {
+    font-size: 32px;
+    line-height: 100%;
+  }
+
   .banner {
     padding: 50px 0 50px 0;
     background-color: #f5fcff;
@@ -172,6 +182,15 @@
 }
 
 @media (min-width: 577px) and (max-width: 768px) {
+  .navbar .navBtn {
+    display: none;
+  }
+
+  .navbar .navList {
+    margin-top: 10px !important;
+    gap: 5px;
+}
+
   .banner {
     padding: 50px 0 50px 0;
   }
