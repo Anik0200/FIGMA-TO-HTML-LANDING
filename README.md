@@ -2,7 +2,7 @@
 
 This repository contains a sleek and minimalist landing page.
 
-[DEMO](https://anik0200.github.io/FIGMA-TO-HTML-L1/)
+[DEMO](https://figma-to-html-landing.netlify.app/)
 
 ## FEATURES :
 
