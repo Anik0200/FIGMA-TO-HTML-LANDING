@@ -2,7 +2,7 @@
 
 This repository contains a sleek and minimalist landing page.
 
-[DEMO](https://figma-to-html-landing.vercel.app/)
+[DEMO](https://figma-to-html-landing.netlify.app/)
 
 ## FEATURES :
 
